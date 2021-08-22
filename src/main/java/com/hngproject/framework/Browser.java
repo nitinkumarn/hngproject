@@ -1,4 +1,4 @@
-package com.tutorialsninja.automation.framework;
+package com.hngproject.framework;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
@@ -10,7 +10,7 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.opera.OperaDriver;
 
-import com.tutorialsninja.automation.base.Base;
+import com.hngproject.automation.base.Base;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

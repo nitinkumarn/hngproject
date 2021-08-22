@@ -1,11 +1,11 @@
-package com.tutorialsninja.automation.base;
+package com.hngproject.automation.base;
 
 import org.openqa.selenium.WebDriver;
 
-import com.tutorialsninja.automation.config.ConfigurationReader;
-import com.tutorialsninja.automation.config.PropertyFileReader;
-import com.tutorialsninja.automation.framework.Browser;
-import com.tutorialsninja.automation.util.PathHelper;
+import com.hngproject.automation.config.ConfigurationReader;
+import com.hngproject.automation.config.PropertyFileReader;
+import com.hngproject.automation.util.PathHelper;
+import com.hngproject.framework.Browser;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;

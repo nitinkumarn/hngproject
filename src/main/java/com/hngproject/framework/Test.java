@@ -1,4 +1,4 @@
-package com.tutorialsninja.automation.framework;
+package com.hngproject.framework;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

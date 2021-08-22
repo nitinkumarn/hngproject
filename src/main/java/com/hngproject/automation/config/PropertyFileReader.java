@@ -1,10 +1,10 @@
-package com.tutorialsninja.automation.config;
+package com.hngproject.automation.config;
 
 
 import java.io.IOException;
 import java.util.Properties;
 
-import com.tutorialsninja.automation.util.PathHelper;
+import com.hngproject.automation.util.PathHelper;
 
 
 

@@ -1,4 +1,4 @@
-package com.tutorialsninja.automation.util;
+package com.hngproject.automation.util;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
